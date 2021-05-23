@@ -8,6 +8,7 @@ Hey There! Thank you for taking part in the Git Up and Running Workshop 2021. I 
 
 ## Contributors
 * [Anirudh Rowjee](https://github.com/anirudhRowjee)
+* [Anupama K Patil](https://github.com/anupamakpatil)
 * [Joseph Alwin K.A.](https://github.com/anirudhRowjee/LolaDevMan)
 * [Karuna K](https://github.com/karunakc)
 * [Aditeya Baral](https://github.com/aditeyabaral)
