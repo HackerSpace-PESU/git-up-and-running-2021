@@ -9,3 +9,5 @@ Hey There! Thank you for taking part in the Git Up and Running Workshop 2021. I 
 ## Contributors
 * [Anirudh Rowjee](https://github.com/anirudhRowjee)
 * [Tushar Bothra](https://github.com/Tushar9999999999)
+* [Karuna K](<https://github.com/karunakc>)
+* [Aditeya Baral](https://github.com/aditeyabaral)
