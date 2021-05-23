@@ -8,3 +8,5 @@ Hey There! Thank you for taking part in the Git Up and Running Workshop 2021. I 
 
 ## Contributors
 * [Anirudh Rowjee](https://github.com/anirudhRowjee)
+* [<Anish Udupa>](<https://github.com/Anish-Udupa>)
+
