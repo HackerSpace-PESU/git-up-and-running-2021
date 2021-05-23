@@ -1,5 +1,0 @@
-This is the third file I'll be adding.
-
-here's a change that i'm making to this file.
-
-Here's another change I've made.
