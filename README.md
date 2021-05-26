@@ -18,3 +18,4 @@ Hey There! Thank you for taking part in the Git Up and Running Workshop 2021. I 
 * [Joseph Alwin K.A.](https://github.com/anirudhRowjee/LolaDevMan)
 * [Lakshmi Narayan](https://github.com/LakshmiNarayanP)
 * [Adarsh Nair](https://github.com/adarshnair094)
+* [Namrata Janawade](https://github.com/namratajanawade)
