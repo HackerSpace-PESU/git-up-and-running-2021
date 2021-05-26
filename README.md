@@ -19,3 +19,5 @@ Hey There! Thank you for taking part in the Git Up and Running Workshop 2021. I 
 * [Lakshmi Narayan](https://github.com/LakshmiNarayanP)
 * [Adarsh Nair](https://github.com/adarshnair094)
 * [Namrata Janawade](https://github.com/namratajanawade)
+* [Claudius D'souza](https://github.com/Cdsclaudy)
+
