@@ -3,7 +3,7 @@
 Hey There! Thank you for taking part in the Git Up and Running Workshop 2021. I invite you to add your name to the list of participants, along with the link to your Github Profile.
 
 ```
-* [<your name>](<the link to your github profile>)
+* [<Abhishek>](<https://github.com/abhishekd23>)
 ```
 
 ## Contributors
